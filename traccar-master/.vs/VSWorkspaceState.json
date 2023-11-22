@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java\\org",
+    "\\src\\main\\java\\org\\traccar",
+    "\\src\\main\\java\\org\\traccar\\model",
+    "\\src\\main\\resources"
+  ],
+  "SelectedNode": "\\src\\main\\resources\\ical4j.properties",
+  "PreviewInSolutionExplorer": false
+}
